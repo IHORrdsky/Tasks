@@ -1,0 +1,35 @@
+﻿Выполняется установка сборки 'E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.InstallLog
+   assemblypath = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe
+Устанавливается служба MyTextService...
+Служба MyTextService успешно установлена.
+Создается исходный EventLog MyTextService в журнале Application...
+Выполняется фиксация сборки 'E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.InstallLog
+   assemblypath = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe
+Выполняется удаление сборки 'E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.InstallLog
+   assemblypath = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe
+Выполняется удаление источника EventLog MyTextService.
+Выполняется удаление службы MyTextService из системы...
+Служба MyTextService успешно удалена из системы.
+Попытка останова службы MyTextService.
+Выполняется установка сборки 'E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.InstallLog
+   assemblypath = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe
+Устанавливается служба MyTextService...
+Служба MyTextService успешно установлена.
+Создается исходный EventLog MyTextService в журнале Application...
+Выполняется фиксация сборки 'E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.InstallLog
+   assemblypath = E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe

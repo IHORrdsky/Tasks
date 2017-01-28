@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 
 namespace MyTextService
 {
@@ -17,8 +17,13 @@ namespace MyTextService
             InitializeComponent();
         }
 
+        public void OnDebug()
+        {
+            OnStart(null);
+        }
         protected override void OnStart(string[] args)
         {
+            Debug.WriteLine("My first service works well");
         }
 
         protected override void OnStop()

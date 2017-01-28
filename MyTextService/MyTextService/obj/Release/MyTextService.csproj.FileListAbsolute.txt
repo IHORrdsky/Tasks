@@ -1,0 +1,9 @@
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe.config
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.exe
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\MyTextService.pdb
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.MyTextService.resources
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.ProjectInstaller.resources
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.csproj.GenerateResource.Cache
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.exe
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.pdb
