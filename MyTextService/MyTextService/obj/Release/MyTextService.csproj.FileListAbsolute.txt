@@ -7,3 +7,4 @@ E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextServ
 E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.csproj.GenerateResource.Cache
 E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.exe
 E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.pdb
+E:\C# Projects\Sergey's tasks\MyTextService\MyTextService\obj\Release\MyTextService.csprojResolveAssemblyReference.cache
